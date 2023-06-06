@@ -1,5 +1,5 @@
 # OpticalBlochEqDemo-plutonb-jl
-Demo of [optical bloch equations](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Bloch_equations) (based on QuantumOptics.jl)
+Demo of [optical bloch equations](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Bloch_equations) (using and based on QuantumOptics.jl)
 
 Based on https://docs.qojulia.org/examples/atom-dephasing/
 
